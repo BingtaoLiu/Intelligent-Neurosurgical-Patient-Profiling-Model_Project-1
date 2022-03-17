@@ -9,7 +9,7 @@ model-1-64.h5 : Saved model as HDF5 format, provided by Keras.
 
 model-1-64.json : Saved model as json format.
 
-LOADANDTEST.py : Load the saved model, create the interface of the project and test the selected image.
+loadNTest.py : Load the saved model, create the interface of the project and test the selected image.
 
 nii-jpg.py : Covert nii format MRI picture to JPG format.
 
